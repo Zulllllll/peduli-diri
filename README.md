@@ -12,25 +12,3 @@ Aplikasi PeduliDiri Web adalah sebuah aplikasi berbasis web yang bertujuan untuk
 | Nama    | Muhammad Zulfati |
 | Sekolah | SMK PRESTASI PRIMA |
 | Jurusan | Pemograman Perangkat Lunak dan Gim |
-
- 
-## Ringkasan
-
-Terdapat 1 level untuk pengguna:
-- Level 1: User
-
-<h3>Preview Aplikasi PeduliDiri Versi Ke2</h3>
-<p>Tampilan Login Aplikasi PeduliDiri</p>
-<img src="https://github.com/MuhamadRifqiAshari/Apikasi-PeduliDiri2/blob/main/Dokumentasi/Tampilan%20Login%20Aplikasi%20PeduliDiri.png">
-
-<p>Register</p>
-<img src="https://github.com/MuhamadRifqiAshari/Apikasi-PeduliDiri2/blob/main/Dokumentasi/Tampilan%20Register.png">
-
-<p>Tampilan Home</p>
-<img src="https://github.com/MuhamadRifqiAshari/Apikasi-PeduliDiri2/blob/main/Dokumentasi/Tampilan%20Home.png">
-
-<p>Tampilan Catatan</p>
-<img src="https://github.com/MuhamadRifqiAshari/Apikasi-PeduliDiri2/blob/main/Dokumentasi/Tampilan%20Catatan.png">
-
-<p>Tampilan Isi Data</p>
-<img src="https://github.com/MuhamadRifqiAshari/Apikasi-PeduliDiri2/blob/main/Dokumentasi/Tampilan%20Isi%20Data.png">
