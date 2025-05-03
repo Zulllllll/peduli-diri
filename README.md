@@ -1,4 +1,4 @@
-# Aplikasi PeduliDiri Web 
+# Aplikasi Peduli Diri Web 
 Aplikasi PeduliDiri Web adalah sebuah aplikasi berbasis web yang bertujuan untuk membantu individu dalam menjaga kesehatan dan kesejahteraan mereka. Aplikasi ini menyediakan berbagai fitur dan layanan untuk membantu penggunanya dalam menjalani gaya hidup yang lebih sehat dan lebih bahagia.
 
 ## 🧑 Pemilik
